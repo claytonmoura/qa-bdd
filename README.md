@@ -14,4 +14,4 @@ Instalar o plugin dos pré-requisitos e executar o Runner com JUnit Test.
 
 Gherkin: Instalar o plugin Cucumber (Desenvolvido e testado com o Eclipse).
 
-⌨️ com ❤️ por [Clayton Moura]( https://github.com/claytonmoura) 😊
+⌨️ com ❤️ por [Clayton Moura]( https://www.linkedin.com/in/claytonmoura/) 😊
